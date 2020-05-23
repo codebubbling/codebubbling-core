@@ -1,1 +1,1 @@
-# codebubbling-core
+# codebubbling-common
